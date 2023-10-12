@@ -10,7 +10,7 @@ public class HellowApplication {
         SpringApplication.run(HellowApplication.class, args);
 
 
-        System.out.println("zainebhhhhbcccbbbbhhhhbbbbbbbbb,b");
+        System.out.println("zainebhhhhbcccbbbbhhhhbnbbbbbbb,b");
 
     }
 
